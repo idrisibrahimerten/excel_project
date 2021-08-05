@@ -31,5 +31,6 @@ Not: <br>
 	2- [instaloader](https://instaloader.github.io/installation.html) : pip3 install instaloader
 	
 * Kod içerisinde yapmanız gereken düzenlemeler. <br>
-	1- ```graph = Graph(host="localhost", auth=("xxxx", "xxxx"))``` kod içerisindeki düzenlemenizi
-	veri tabanında yaptığınız özelleştirmelere göre yapınız. Örnek : ```auth=("neo4j", "123456")```
+	1- ```graph = Graph(host="localhost", auth=("xxxx", "xxxx"))``` <br> 
+	kod içerisindeki düzenlemenizi veri tabanında yaptığınız özelleştirmelere göre yapınız. <br>
+	Örnek : ```auth=("neo4j", "123456")```
