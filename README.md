@@ -40,8 +40,9 @@ Not: <br>
 	
 ### Projenin çalıştırılması işlemi:
 
-* Projenin çalıştırılması için <code>"user.py"</code> içerisinde aşağıdaki adımları uygulayın.
-	Önemli!
+* Projenin çalıştırılması için <code>"user.py"</code> içerisinde aşağıdaki adımları uygulayın. <br>
+	
+	Önemli! <br>
 		Instagram veri toplama işlemine başlamadan önce ```User('username')``` fonksiyonunu çalıştırarak
 		veri tabanında kontrol işlemini yapınız.
 		
