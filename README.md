@@ -45,19 +45,19 @@ Not: <br>
 		Instagram veri toplama işlemine başlamadan önce ```User('username')``` fonksiyonunu çalıştırarak
 		veri tabanında kontrol işlemini yapınız.
 		
-	1- Girilen kullanıcı adının detaylı profil verisini toplamak için, 
-	```User('username')```
+	1- Girilen kullanıcı adının detaylı profil verisini toplamak için, <br>
+	```User('username')``` <br>
 	"usurname" kısmına aradığınız kişinin kullanıcı adını girerek fonksiyonu çalıştırınız.
 	
-	2- Verisini aldığınız kullanıcı adının takipçi/takip ettiklerini tespit etmek için, 
-	```get_user_followers_followees('username')```
+	2- Verisini aldığınız kullanıcı adının takipçi/takip ettiklerini tespit etmek için, <br> 
+	```get_user_followers_followees('username')``` <br>
 	fonksiyonunu aktif hale getiriniz.
 	
-	3- Verisini aldığınız kullanıcının attığı gönderilere (POST) bilgisine erişmek için,
-	```user_posts('username')```
+	3- Verisini aldığınız kullanıcının attığı gönderilere (POST) bilgisine erişmek için, <br>
+	```user_posts('username')``` <br>
 	fonksiyonunu aktif hale getiriniz.
 	
-	4- Detaylı HASHTAG ve anahtar kelime araması için,
-	```get_hashtags("hashtag/keywords", count)```
+	4- Detaylı HASHTAG ve anahtar kelime araması için, <br>
+	```get_hashtags("hashtag/keywords", count)``` <br>
 	fonksiyonunu aktif hale getiriniz.
 	
