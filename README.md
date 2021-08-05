@@ -9,6 +9,8 @@
 	#                                                    #
 	######################################################
 
+# RDC+ Instagram Scraper
+
 ## Proje hakkında bilgi
 
 Projemiz sosyal medya aracı olan "Instagram" üzerinden detaylı bilgi toplaması yapması için
