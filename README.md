@@ -22,5 +22,5 @@ Projemizi çalıştırmak için kod bloğunun ilgili alanındaki fonksiyonları 
 ### Projenin hata almadan çalışması için yapılması gereken işlemler:
 Not:
 	Dosya içerisinde çalıştığınız kod çalışmasının <code>"user.py"</code> olduğuna dikkat ediniz.
-* Gerekli veri tabanının kurulumunu yapınız.
+* Gerekli veri tabanının kurulumunu yapınız. <br>
 	1- [neo4j](https://neo4j.com/download/) : Neo4j kurulumunu yapınız.
