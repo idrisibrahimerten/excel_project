@@ -34,3 +34,6 @@ Not: <br>
 	1- ```graph = Graph(host="localhost", auth=("xxxx", "xxxx"))``` <br> 
 	kod içerisindeki düzenlemenizi veri tabanında yaptığınız özelleştirmelere göre yapınız. <br>
 	Örnek : ```auth=("neo4j", "123456")```
+	
+	2- ```L.login('username', 'password')``` <br>
+	kod kısmında "Instagram" kullanıcı adı ve şifrenizi giriniz. 
