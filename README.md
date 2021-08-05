@@ -25,13 +25,13 @@ Projemizi çalıştırmak için kod bloğunun ilgili alanındaki fonksiyonları 
 	Not:
 		Dosya içerisinde çalıştığınız kod çalışmasının <code>"user.py"</code> olduğuna dikkat ediniz.
 
-	* Gerekli veri tabanının kurulumunu yapınız. <br>
-		1- [neo4j](https://neo4j.com/download/) : Neo4j kurulumunu yapınız. <br>
+	* Gerekli veri tabanının kurulumunu yapınız.
+		1- [neo4j](https://neo4j.com/download/) : Neo4j kurulumunu yapınız.
 
 	* PİP install işlemlerini yapınız. <br>
-		1- [py2neo](https://github.com/py2neo-org/py2neo) : pip install py2neo <br>
-		2- [instaloader](https://instaloader.github.io/installation.html) : pip3 install instaloader <br>
+		1- [py2neo](https://github.com/py2neo-org/py2neo) : pip install py2neo
+		2- [instaloader](https://instaloader.github.io/installation.html) : pip3 install instaloader
 
-	* Kod içerisinde yapmanız gereken düzenlemeler. <br>
+	* Kod içerisinde yapmanız gereken düzenlemeler.
 		1- ```graph = Graph(host="localhost", auth=("xxxx", "xxxx"))``` kod içerisindeki düzenlemenizi
 		veri tabanında yaptığınız özelleştirmelere göre yapınız. Örnek : ```auth=("neo4j", "123456")```
