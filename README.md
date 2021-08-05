@@ -36,4 +36,28 @@ Not: <br>
 	Örnek : ```auth=("neo4j", "123456")```
 	
 	2- ```L.login('username', 'password')``` <br>
-	kod kısmında "Instagram" kullanıcı adı ve şifrenizi giriniz. 
+	kod kısmında "Instagram" kullanıcı adı ve şifrenizi giriniz.
+	
+### Projenin çalıştırılması işlemi:
+
+* Projenin çalıştırılması için <code>"user.py"</code> içerisinde aşağıdaki adımları uygulayın.
+	Önemli!
+		Instagram veri toplama işlemine başlamadan önce ```User('username')``` fonksiyonunu çalıştırarak
+		veri tabanında kontrol işlemini yapınız.
+		
+	1- Girilen kullanıcı adının detaylı profil verisini toplamak için, 
+	```User('username')```
+	"usurname" kısmına aradığınız kişinin kullanıcı adını girerek fonksiyonu çalıştırınız.
+	
+	2- Verisini aldığınız kullanıcı adının takipçi/takip ettiklerini tespit etmek için, 
+	```get_user_followers_followees('username')```
+	fonksiyonunu aktif hale getiriniz.
+	
+	3- Verisini aldığınız kullanıcının attığı gönderilere (POST) bilgisine erişmek için,
+	```user_posts('username')```
+	fonksiyonunu aktif hale getiriniz.
+	
+	4- Detaylı HASHTAG ve anahtar kelime araması için,
+	```get_hashtags("hashtag/keywords", count)```
+	fonksiyonunu aktif hale getiriniz.
+	
