@@ -1,16 +1,16 @@
 # RDC+ Instagram Scraper
 <br>
-######################################################
-####          RDC+ Instagram Scraper              ####
-######################################################
-#   RDC+ Data Team Instagram Scraper.                #
-#   RDC+ Veri Ekibi Instagram Veri Toplayıcı.        #
-#                                                    #
-#   August - 2021                                    #
-#   Ağustos - 2021                                   #
-#                                                    #
-######################################################
-<br>
+	######################################################
+	####          RDC+ Instagram Scraper              ####
+	######################################################
+	#   RDC+ Data Team Instagram Scraper.                #
+	#   RDC+ Veri Ekibi Instagram Veri Toplayıcı.        #
+	#                                                    #
+	#   August - 2021                                    #
+	#   Ağustos - 2021                                   #
+	#                                                    #
+	######################################################
+
 ## Proje hakkında bilgi
 
 Projemiz sosyal medya aracı olan "Instagram" üzerinden detaylı bilgi toplaması yapması için
