@@ -64,6 +64,8 @@ Note: <br>
 
 ## -----------------------------------------TO TURKISH-----------------------------------------
 
+# RDC+ INSTAGRAM VERİ TOPLAYICI
+
 ## Proje hakkında bilgi
 
 Projemiz sosyal medya aracı olan "Instagram" üzerinden detaylı bilgi toplaması yapması için
@@ -115,3 +117,4 @@ Not: <br>
 	```get_hashtags("hashtag/keywords", count)``` <br>
 	fonksiyonunu aktif hale getiriniz.
 	
+### RDC+ August - 2021
