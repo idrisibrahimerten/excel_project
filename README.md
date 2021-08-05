@@ -20,7 +20,7 @@ Projemizi çalıştırmak için kod bloğunun ilgili alanındaki fonksiyonları 
 ## Proje nasıl çalışır?
 
 ### Projenin hata almadan çalışması için yapılması gereken işlemler:
-Not:
+Not: <br>
 	Dosya içerisinde çalıştığınız kod çalışmasının <code>"user.py"</code> olduğuna dikkat ediniz.
 
 * Gerekli veri tabanının kurulumunu yapınız. <br>
@@ -29,3 +29,7 @@ Not:
 * PİP install işlemlerini yapınız. <br>
 	1- [py2neo](https://github.com/py2neo-org/py2neo) : pip install py2neo <br>
 	2- [instaloader](https://instaloader.github.io/installation.html) : pip3 install instaloader
+	
+* Kod içerisinde yapmanız gereken düzenlemeler. <br>
+	1- ```graph = Graph(host="localhost", auth=("xxxx", "xxxx"))``` kod içerisindeki düzenlemenizi
+	veri tabanında yaptığınız özelleştirmelere göre yapınız. Örnek : ```auth=("neo4j", "123456")```
