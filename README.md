@@ -25,3 +25,7 @@ Not:
 
 * Gerekli veri tabanının kurulumunu yapınız. <br>
 	1- [neo4j](https://neo4j.com/download/) : Neo4j kurulumunu yapınız.
+	
+* PİP install işlemlerini yapınız. <br>
+	1- [py2neo](https://github.com/py2neo-org/py2neo) : pip install py2neo <br>
+	2- [instaloader](https://instaloader.github.io/installation.html) : pip3 install instaloader
