@@ -25,11 +25,10 @@ yapanlara NA notu otomatik olarak verilmiştir.
 * Hangi harf’ten kaç tane olduğunu gösteren ADET sütunu değerleri otomatik olarak hesaplanmaktadır.
 Adet sütundaki değerler, solundaki hücrenin değerine göre hesaplanmaktadır. Örneğin Harf sütunundaki DD değerini AA ile değiştirirsem bu hücrenin sağındaki 0 değeri de otomatik olarak 6 tane AA
 notu olduğu için 6 olmaktadır.
-Devam Çizelgesinde İstenenler:
+Devam Çizelgesinde İstenenler: <br>
     – Kendi soyadınızı her bir satıra bir harf gelecek şekilde örnekteki gibi yazmanız gerekmektedir.
     Örneğin soyadınız Karalı ise Devam Çizelgesi başlığı Karalı’nın harflerini ilk 6 satıra yerleştirdikten
-    sonra 7. satırda olmalıdır.
-    – Devamsızlık sütunu öğrencinin kaç hafta devamsızlık yaptığını göstermektedir. Toplam katkı sütunu ise öğrencinin devamsızlıktan alacağı ilave puanı göstermektedir. Hiç         devamsızlık yapmayan
-    öğrenciye 5 puan ilave edilecektir. Her bir devamsızlık için, verilecek 5 ilave puandan 1 puan
+    sonra 7. satırda olmalıdır. <br>
+    – Devamsızlık sütunu öğrencinin kaç hafta devamsızlık yaptığını göstermektedir. Toplam katkı sütunu ise öğrencinin devamsızlıktan alacağı ilave puanı göstermektedir. Hiç           devamsızlık yapmayan öğrenciye 5 puan ilave edilecektir. Her bir devamsızlık için, verilecek 5 ilave puandan 1 puan
     düşülmektedir.
 
