@@ -2,7 +2,7 @@
 
 # EXCEL Adım Adım Sorun Üzerine Çözüm Projesi
 
-## PROJE BİLGİLERİ
+## <br> PROJE BİLGİLERİ
 
 ### Bu PROJE hazırlanırken aşağıdaki yönergeler kullanılarak hazırlanmıştır. 
 #### İstenenler:
