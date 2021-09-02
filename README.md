@@ -8,10 +8,10 @@ isminiz Melahat ise Ders Bilgileri Tablosu başlığı Melahat’ın harflerini 
 
 * Ders bilgileri tablosunda Toplam Not hesaplanırken Odev 20, Vize 20, Devam 5, Web Notu 10 ve
 Final 50 puan katkı yapmıştır. Toplam not yuvarlama yapılmadan, virgülden sonra bir rakam olarak
-gösterilmektedir. br
+gösterilmektedir. <br>
     – Vize ve ödev notu 25 üzerinden hesaplanmıştır, fakat toplam not’a 20 etki edeceklerdir. Yani
-    vizeden 18 almış bir öğrencide vizenin toplam nota etkisi (18*20/25) şeklinde hesaplanacaktır.
-    – Final notu da 25 üzerinden hesaplanmıştır, fakat toplam not’a 50 olarak etki edecektir. Yani
+    vizeden 18 almış bir öğrencide vizenin toplam nota etkisi (18*20/25) şeklinde hesaplanacaktır.<br>
+    – Final notu da 25 üzerinden hesaplanmıştır, fakat toplam not’a 50 olarak etki edecektir. <br> Yani
     finalden 21 almış bir öğrencide finalin toplam nota etkisi 21*2 şeklinde hesaplanacaktır.
 
 * Devam katkı sütun bilgileri otomatik olarak devam sayfasından alınmaktadır. Bir başka ifade ile devam
