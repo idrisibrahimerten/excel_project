@@ -1,6 +1,7 @@
 <img align="left" width="110" height="100" src="excelImg.png">
 
 # EXCEL Adım Adım Sorun Üzerine Çözüm Projesi
+
 ## PROJE BİLGİLERİ
 
 ### Bu PROJE hazırlanırken aşağıdaki yönergeler kullanılarak hazırlanmıştır. 
