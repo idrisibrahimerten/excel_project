@@ -1,4 +1,4 @@
-<img align="left" width="250" height="100" src="excelLogo.png">
+<img align="left" width="350" height="150" src="excelLogo.png">
 
 # EXCEL Adım Adım Sorun Üzerine Çözüm Projesi
 ## PROJE BİLGİLERİ
