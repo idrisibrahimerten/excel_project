@@ -1,7 +1,8 @@
 # EXCEL Adım Adım Sorun Üzerine Çözüm Projesi
 ## PROJE BİLGİLERİ
 
-### Bu PROJE hazırlanırken aşağıdaki yönergeler kullanılacaktır. Her bir sayfada sizden istenenler hakkında aşağıda bilgi bulabilirsiniz. Ders Devam Cetveli Tablosunda İstenenler:
+### Bu PROJE hazırlanırken aşağıdaki yönergeler kullanılacaktır. Her bir sayfada sizden istenenler hakkında aşağıda bilgi bulabilirsiniz. 
+#### Ders Devam Cetveli Tablosunda İstenenler:
 
 * Kendi adınızı her bir satıra bir harf gelecek şekilde örnekteki gibi yazmanız gerekmektedir. Örneğin
 isminiz Melahat ise Ders Bilgileri Tablosu başlığı Melahat’ın harflerini ilk 7 satıra yerleştirdikten sonra 8. Satırda olmalıdır.
