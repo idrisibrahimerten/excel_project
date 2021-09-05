@@ -35,7 +35,7 @@ Required in Attendance Schedule: <br>
      – The Absence column shows how many weeks the student has been absent. The total contribution column shows the additional score that the student will receive from absenteeism. 5 points will be added to the student who has never been absent. For each absence, 1 point out of 5 additional points to be awarded
      is deducted.
 
-#### To Turkish
+### To Turkish
 
 # EXCEL İstek Üzerine Proje
 
