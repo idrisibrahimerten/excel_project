@@ -8,7 +8,7 @@
 #### Requested:
 
 * You must write your own name, one letter per line, as in the example. E.g
-If your name is Zeynep, the title of the Course Information Table should be on the 8th line after placing the letters of Melahat in the first 7 lines.
+If your name is Zeynep, the title of the Course Information Table should be on the 8th line after placing the letters of Zeynep in the first 7 lines.
 
 * While calculating the Total Grade in the course information table, Odev 20, Midterm 20, Attendance 5, Web Grade 10 and
 The final contributed 50 points. Total grade as one digit after the comma, without rounding
@@ -45,7 +45,7 @@ Required in Attendance Schedule: <br>
 #### İstenenler:
 
 * Kendi adınızı her bir satıra bir harf gelecek şekilde örnekteki gibi yazmanız gerekmektedir. Örneğin
-isminiz Zeynep ise Ders Bilgileri Tablosu başlığı Melahat’ın harflerini ilk 7 satıra yerleştirdikten sonra 8. Satırda olmalıdır.
+isminiz Zeynep ise Ders Bilgileri Tablosu başlığı Zeynep’in harflerini ilk 7 satıra yerleştirdikten sonra 8. Satırda olmalıdır.
 
 * Ders bilgileri tablosunda Toplam Not hesaplanırken Odev 20, Vize 20, Devam 5, Web Notu 10 ve
 Final 50 puan katkı yapmıştır. Toplam not yuvarlama yapılmadan, virgülden sonra bir rakam olarak
